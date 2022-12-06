@@ -1,0 +1,325 @@
+@charset "utf-8";
+.container-fluid {
+	background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(255,255,255,1.00) 37.82%,rgba(252,252,252,1.00) 72.54%,rgba(0,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(255,255,255,1.00) 37.82%,rgba(252,252,252,1.00) 72.54%,rgba(0,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(255,255,255,1.00) 37.82%,rgba(252,252,252,1.00) 72.54%,rgba(0,0,0,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(255,255,255,1.00) 37.82%,rgba(252,252,252,1.00) 72.54%,rgba(0,0,0,1.00) 100%);
+}
+.container-fluid .container .navbar.navbar-default {
+
+}
+.container-fluid .container .navbar.navbar-default {
+}
+.container-fluid .container footer {
+	color: #FFFFFF;
+}
+
+
+.nav.navbar-nav li a {
+	color: #FBA200;
+}
+.caption p .btn.btn-primary {
+	background-color: #000000;
+	color: #FCB001;
+	font-family: unifrakturcook;
+	font-style: normal;
+	font-weight: 700;
+}
+.container-fluid .container .jumbotron {
+
+}
+.container .text-center strong {
+	color: #FFFFFF;
+}
+.container-fluid .container video {
+	width: 1200px;
+	height: 400px;
+}
+.container .text-center strong {
+	color: #FFFFFF;
+	font-family: unifrakturcook;
+	font-style: normal;
+	font-weight: 700;
+	text-align: center;
+	font-size: xx-large;
+}
+.container .text-center strong {
+	text-align: center;
+}
+.thumbnail .caption p {
+	font-size: x-large;
+}
+.container h2 strong {
+	color: #000000;
+}
+.container-fluid .container .text-center {
+
+}
+.container-fluid .container .text-center {
+	color: #FFFFFF;
+}
+
+
+
+.container-fluid .container .jumbotron {
+	background-color: #FFFFFF;
+}
+.container .jumbotron .text-center {
+	color: #000000;
+	font-family: unifrakturcook;
+	font-style: normal;
+	font-weight: 700;
+	text-align: center;
+	font-size: xx-large;
+}
+.container .jumbotron p {
+	color: #000000;
+	font-family: luckiest-guy;
+	font-style: normal;
+	font-weight: 400;
+	text-align: center;
+
+}
+.jumbotron p .btn.btn-primary.btn-lg {
+	color: #000000;
+}
+
+
+
+
+
+
+.container-fluid .container p {
+	color: #000000;
+	font-family: sunshiney;
+	font-style: normal;
+	font-weight: 400;
+	font-size: large;
+}
+.container .jumbotron p {
+	color: #000000;
+	font-family: unifrakturcook;
+	font-style: normal;
+	font-weight: 700;
+	text-align: center;
+}
+
+.thumbnail .caption .text-center {
+	color: #000000;
+	font-family: unifrakturcook;
+	font-style: normal;
+	font-weight: 700;
+	font-size: xx-large;
+	text-align: center;
+}
+.thumbnail .caption h3 {
+	color: #000000;
+	font-family: unifrakturcook;
+	font-style: normal;
+	font-weight: 700;
+	text-align: center;
+	font-size: xx-large;
+	background-image: -webkit-linear-gradient(270deg,rgba(255,0,0,1.00) 0%,rgba(255,255,255,1.00) 0%,rgba(191,191,191,1.00) 0%,rgba(251,248,249,1.00) 33.16%,rgba(182,182,182,1.00) 69.95%,rgba(255,252,252,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,0,0,1.00) 0%,rgba(255,255,255,1.00) 0%,rgba(191,191,191,1.00) 0%,rgba(251,248,249,1.00) 33.16%,rgba(182,182,182,1.00) 69.95%,rgba(255,252,252,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,0,0,1.00) 0%,rgba(255,255,255,1.00) 0%,rgba(191,191,191,1.00) 0%,rgba(251,248,249,1.00) 33.16%,rgba(182,182,182,1.00) 69.95%,rgba(255,252,252,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,0,0,1.00) 0%,rgba(255,255,255,1.00) 0%,rgba(191,191,191,1.00) 0%,rgba(251,248,249,1.00) 33.16%,rgba(182,182,182,1.00) 69.95%,rgba(255,252,252,1.00) 100%);
+}
+.caption p .btn.btn-primary {
+	background-color: #000000;
+}
+.container .text-center strong {
+	font-size: x-large;
+}
+
+
+.thumbnail .caption p {
+	color: #000000;
+	font-family: rouge-script;
+	font-style: normal;
+	font-weight: 400;
+}
+.thumbnail .caption p {
+	color: #000000;
+	font-family: rouge-script;
+	font-style: normal;
+	font-weight: 400;
+}
+.thumbnail .caption p {
+	color: #000000;
+	font-family: rouge-script;
+	font-style: normal;
+	font-weight: 400;
+}
+.jumbotron p .btn.btn-primary.btn-lg {
+	color: #FCB001;
+	background-color: #000000;
+}
+.container-fluid .container .text-center {
+	color: #000000;
+	font-family: unifrakturcook;
+	font-style: normal;
+	font-weight: 700;
+	text-align: center;
+}
+.thumbnail .caption p {
+	color: #000000;
+}
+.jumbotron.col-lg-8 p strong {
+	text-align: left;
+
+
+}
+.row .jumbotron.col-lg-8 article {
+	text-align: left;
+	color: #000000;
+}
+.container a .text-uppercase {
+	color: #000000;
+	text-align: center;
+	font-size: x-large;
+}
+.thumbnail .caption p {
+	text-align: center;
+	color: #000000;
+
+}
+.thumbnail .caption p {
+	color: #000000;
+}
+.col-md-4 .thumbnail .caption {
+	color: #000000;
+	font-family: unifrakturcook;
+	font-style: normal;
+	font-weight: 700;
+}
+.thumbnail .caption p {
+	color: #000000;
+	text-align: center;
+}
+
+
+.col-md-4 .thumbnail .caption {
+	color: #000000;
+}
+.thumbnail .caption p {
+	color: #000000;
+}
+.media-object-default .media.col-lg-6 .media-body {
+	color: #FFFFFF;
+}
+.media-object-default .media .media-body {
+	color: #FFFFFF;
+}
+.media.col-lg-6 .media-body .media-heading {
+	text-align: center;
+}
+.media .media-body .media-heading {
+	text-align: center;
+}
+.container-fluid .container .btn.btn-lg.btn-default {
+	text-align: center;
+	color: #FCB001;
+	font-family: unifrakturcook;
+	font-style: normal;
+	font-weight: 700;
+	width: 860pt;
+	background-color: #000000;
+}
+.container p .btn.btn-primary.btn-lg {
+	color: #FCB001;
+	background-color: #000000;
+
+}
+.text-center .btn.btn-primary.btn-lg strong {
+	color: #FCB001;
+}
+.container .jumbotron h3 {
+	color: #000000;
+	text-align: left;
+	font-style: italic;
+	font-size: large;
+}
+.container-fluid .container #form1 {
+	text-align: left;
+}
+.container #form1 label {
+
+}
+.container-fluid .container #form1 {
+	color: #000000;
+}
+.container-fluid .container #form1 {
+	color: #000000;
+}
+.container-fluid .container #form1 {
+	color: #000000;
+}
+.container-fluid .container #form1 {
+	color: #000000;
+}
+
+
+
+
+.container-fluid .container #form1 {
+	text-align: left;
+	color: #000000;
+
+}
+.container-fluid .container #form1 {
+	text-align: center;
+	font-size: large;
+	color: #000000;
+}
+.container #form1 #NUME {
+	color: #000000;
+}
+.container #form1 #E-MAIL {
+	color: #000000;
+}
+.container #form1 #TELEFON {
+	color: #000000;
+}
+#SCRIE UN MESAJ {
+	color: #000000;
+}
+#SCRIE UN MESAJ {
+	color: #000000;
+
+}
+
+
+
+
+
+.container #form1 #TRIMITE {
+	font-family: unifrakturcook;
+	font-style: normal;
+	font-weight: 700;
+}
+.container-fluid .container #accordion1 {
+	color: #000000;
+	font-family: unifrakturcook;
+	font-style: normal;
+	font-weight: 700;
+}
+.container-fluid #topFixedNavbar1 .nav.navbar-nav.navbar-right {
+}
+#topFixedNavbar1 .nav.navbar-nav.navbar-right li {
+	font-family: unifrakturcook;
+	font-style: normal;
+	font-weight: 700;
+	font-size: large;
+}
+footer .row .col-lg-4 {
+	color: #FCB001;
+	text-align: center;
+
+}
+footer .row .col-lg-12 {
+	color: #FCB001;
+	text-align: center;
+	font-family: unifrakturcook;
+	font-style: normal;
+	font-weight: 700;
+}
